@@ -1,0 +1,17 @@
+/* styles.css */
+
+/* Style pour le corps de la page */
+body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style pour le titre principal */
+h1 {
+    color: #0056b3;
+    text-align: center;
+    margin-top: 20px;
+}
