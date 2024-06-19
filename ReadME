@@ -9,10 +9,6 @@ Ce projet est un exemple pour une évaluation Git.
 - Créer et gérer un repository Git.
 - Collaborer avec des camarades via des Pull Requests.
 
-**Note importante :** Veuillez suivre les instructions pour chaque étape.
-
-*Bon courage !*
-
 ```python
 def exemple_de_code():
     print("Ceci est un exemple de code en Python")
