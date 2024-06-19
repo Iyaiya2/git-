@@ -1,0 +1,18 @@
+# Mon Projet
+
+## Introduction
+
+Ce projet est un exemple pour une évaluation Git.
+
+### Objectifs
+
+- Créer et gérer un repository Git.
+- Collaborer avec des camarades via des Pull Requests.
+
+**Note importante :** Veuillez suivre les instructions pour chaque étape.
+
+*Bon courage !*
+
+```python
+def exemple_de_code():
+    print("Ceci est un exemple de code en Python")
